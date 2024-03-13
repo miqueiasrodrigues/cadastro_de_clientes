@@ -1,0 +1,40 @@
+.select{
+    display: flex;
+    font-family: inherit;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.select .btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.select .select-header{
+    height: 45px;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+    background-color:var(--black-color);
+    color: var(--white-color);
+}
+
+.select .select-options{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-left: 8px;
+    padding-left: 8px;
+    height: 100%;
+    width: 60%;
+    border-radius: 16px;
+    background-color: var(--green-color);
+}

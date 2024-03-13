@@ -1,0 +1,7 @@
+.message {
+  background-color: brown;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,17 @@
+.popup{
+    border-radius: 18px;
+    overflow: hidden;
+}
+
+.popup-close{
+    width: 25px;
+    height: 25px;
+    border-radius: 14px;
+    background-color: var(--green-color);
+    border: none;
+    cursor: pointer;
+}
+
+.popup-close:hover{
+    background-color: var(--red-color);
+}

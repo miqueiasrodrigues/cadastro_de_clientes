@@ -1,0 +1,104 @@
+:root {
+  --green-color: #17f460;
+  --black-color: #040404;
+  --white-color: #f2f2f2;
+  --red-color: #cf3d3d;
+  --blue-color: #1E90FF;
+  --gray-color: #808080;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--white-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main .about-client {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main .search-client {
+  width: 50%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button-control {
+  height: 10%;
+  box-sizing: border-box;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.create{
+  background-color: var(--black-color);
+}
+
+.header-view {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header-view li,
+.content-view li {
+  box-sizing: border-box;
+  padding: 20px 0px;
+  height: 100%;
+  width: 18%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--white-color);
+}
+
+.content-view li {
+  color: var(--black-color);
+}
+
+.content-view {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn-view {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.not-found {
+  height: 50%;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  font-size: 26px;
+}
