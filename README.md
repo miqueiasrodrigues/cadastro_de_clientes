@@ -23,30 +23,30 @@ Para utilizar este projeto, siga estas etapas:
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências do backend e frontend utilizando npm.
 
-## Backend
-# Entrar na pasta do backend
+# Backend
+### Entrar na pasta do backend
 cd backend
-# Instalar as dependências
+### Instalar as dependências
 npm install
-# Iniciar o servidor de desenvolvimento
+### Iniciar o servidor de desenvolvimento
 npm run dev
 
 
-## Frontend
-# Entrar na pasta do frontend
+# Frontend
+### Entrar na pasta do frontend
 cd frontend
-# Instalar as dependências
+### Instalar as dependências
 npm install
-# Iniciar o servidor de desenvolvimento
+### Iniciar o servidor de desenvolvimento
 npm start
 
-##base de dados
+# base de dados
 CREATE DATABASE gerenciamento_clientes;
 
 5. Inicie o servidor backend e o servidor frontend.
 6. Acesse a aplicação através do navegador e comece a cadastrar e gerenciar clientes.
 
 
-## Link da demonstação
+# Link da demonstação
 
 https://youtu.be/8uR_vnoQiIA
