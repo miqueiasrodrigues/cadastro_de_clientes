@@ -23,7 +23,7 @@ Para utilizar este projeto, siga estas etapas:
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências do backend e frontend utilizando npm.
 
-##Backend
+## Backend
 # Entrar na pasta do backend
 cd backend
 # Instalar as dependências
@@ -32,7 +32,7 @@ npm install
 npm run dev
 
 
-##Frontend
+## Frontend
 # Entrar na pasta do frontend
 cd frontend
 # Instalar as dependências
