@@ -47,3 +47,6 @@ CREATE DATABASE gerenciamento_clientes;
 6. Acesse a aplicação através do navegador e comece a cadastrar e gerenciar clientes.
 
 
+## Link da demonstação
+
+https://youtu.be/8uR_vnoQiIA
