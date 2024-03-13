@@ -21,9 +21,22 @@ Este projeto é uma aplicação de cadastro de clientes desenvolvida com Node.js
 Para utilizar este projeto, siga estas etapas:
 
 1. Clone o repositório para sua máquina local.
-2. Instale as dependências do backend e frontend utilizando npm ou yarn.
-3. Configure as variáveis de ambiente necessárias.
-4. Inicie o servidor backend e o servidor frontend.
-5. Acesse a aplicação através do navegador e comece a cadastrar e gerenciar clientes.
+2. Instale as dependências do backend e frontend utilizando npm.
+
+Backend
+1. Entre na pasta do backend
+2. Digite no terminal => npm install
+3. Depois digite => npm run dev
+
+frontend
+1. Entre na pasta do frontend
+2. Digite no terminal => npm install
+3. Depois digite => npm start
+
+base de dados
+1.Crie uma base de dados com o nome de gerenciament
+
+5. Inicie o servidor backend e o servidor frontend.
+6. Acesse a aplicação através do navegador e comece a cadastrar e gerenciar clientes.
 
 
